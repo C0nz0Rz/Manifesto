@@ -32,6 +32,7 @@ pre {
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+  color: #ffffff;
 }
 
 
@@ -42,4 +43,9 @@ p {
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+}
+
+div {
+    font-size: 300px
+    color: lightseagreen;
 }
