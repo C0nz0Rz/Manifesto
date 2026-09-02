@@ -12,7 +12,7 @@ h1 {
 }
 
 
-.domine-<uniquifier> {
+pre {
   font-family: "Domine", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -28,7 +28,7 @@ h1 {
 }
 
 
-.inconsolata-<uniquifier> {
+p {
   font-family: "Inconsolata", monospace;
   font-optical-sizing: auto;
   font-weight: <weight>;
