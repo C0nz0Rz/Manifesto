@@ -1,4 +1,8 @@
 /* styles.css */
+html {
+    background: #279acc;
+background: linear-gradient(90deg, rgba(39, 154, 204, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
 .comic-relief-regular {
   font-family: "Comic Relief", system-ui;
   font-weight: 400;
@@ -19,6 +23,7 @@ pre {
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+  color: white;
 }
 
 
