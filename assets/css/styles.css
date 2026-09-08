@@ -17,6 +17,9 @@ h1 {
   font-size: 5em;
 }
 
+h2 {
+  text-align: right;
+}
 
 pre {
   font-family: "Domine", serif;
