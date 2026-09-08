@@ -63,3 +63,16 @@ div {
 .h {
   color:darkorange;font-size: 5em ;
 }
+.u {
+  color:rgb(170, 200, 255);font-size: 5em;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.b {
+  color:white;
+  left:20px;top: 15px;
+}
+
+.e1 {
+  color:white;
+  left:100px;top: 300px;
+}
