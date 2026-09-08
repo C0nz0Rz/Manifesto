@@ -18,7 +18,10 @@ h1 {
 }
 
 h2 {
-  text-align: right;
+  font-family: "Imp";
+  font-size: 5em;
+  font-weight: bold;
+  text-indent: 25%;
 }
 
 pre {
